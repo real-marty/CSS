@@ -49,6 +49,9 @@ button:hover {
 }
 /*Nav setion with hero*/
 #main-head {
+  position: sticky;
+  top: 0%;
+  z-index: 3;
   background-color: rgb(17, 17, 17);
   color: white;
 }
